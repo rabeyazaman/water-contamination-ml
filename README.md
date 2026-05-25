@@ -2,9 +2,9 @@
 
 A complete machine learning pipeline that predicts whether a water sample is **safe (potable)** or **contaminated (non-potable)** based on physicochemical parameters. Built as a research-style project combining **microbiology, environmental health, and applied AI**.
 
-> **Author:** Rabeya Zaman — Microbiology, Notre Dame University Bangladesh (NDUB)
-> **Course context:** MBO 104 — Organic Chemistry & Environmental Microbiology
-> **Project level:** Undergraduate research (Master's-style presentation)
+> Author:Rabeya Zaman — Microbiology, Notre Dame University Bangladesh
+> **Course context: Environmental Microbiology
+> **Project level:Undergraduate research
 
 ---
 
