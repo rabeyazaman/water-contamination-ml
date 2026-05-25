@@ -1,8 +1,8 @@
 # AI-Based Water Contamination Detection System Using Machine Learning
 
 **Author:** Rabeya Zaman
-**Affiliation:** Department of Microbiology, Notre Dame University Bangladesh (NDUB)
-**Course context:** MBO 104 — Organic Chemistry & Environmental Microbiology
+**Affiliation:** Department of Microbiology, Notre Dame University Bangladesh
+**Course context: Environmental Microbiology
 **Year:** 2026
 
 ---
