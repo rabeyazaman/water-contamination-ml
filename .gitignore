@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+outputs/models/*.pkl
+*.DS_Store
+.vscode/
+.idea/
