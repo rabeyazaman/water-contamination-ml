@@ -16,7 +16,7 @@ A complete machine learning pipeline that predicts whether a water sample is **s
 - Synthetic dataset generator (so the project runs even before downloading the Kaggle dataset)
 - Compatible with the **Kaggle Water Potability dataset** (Aditya Kadiwal) out of the box
 - Publication-style research report in [report/research_report.md](report/research_report.md)
-- Designed for **scholarship applications, university admissions, and research portfolio**
+
 
 ---
 
